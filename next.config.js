@@ -12,4 +12,4 @@ const nextConfig = {
   reactStrictMode: false,
 };
 
-export default nextConfig;
+module.exports = nextConfig
